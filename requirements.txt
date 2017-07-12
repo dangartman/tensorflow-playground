@@ -1,0 +1,13 @@
+#required
+tensorflow
+tflearn
+numpy
+
+#optional
+scikit-image
+pyaudio
+wave
+python_speech_features
+matplotlib
+librosa
+scikits.talkbox
